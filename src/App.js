@@ -7,6 +7,7 @@ import Menu from './components/Menu/Menu'
 import PageDetail from './Pages/PageDetail/PageDetail'
 
 function App () {
+  console.log('dss')
   return (
     <div>
       <Header />
